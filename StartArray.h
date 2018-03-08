@@ -1,6 +1,5 @@
 
 const uint8_t startArray[] PROGMEM = {
-
 240,
 0,
 68,
